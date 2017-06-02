@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+version="1.1"
+creator="Wikipedia"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <time>2011-09-22T18:56:51Z</time>
+  <metadata>
+    <name>Name</name>
+    <desc>Description</desc>
+    <author>
+     <name>Autor</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>exercise</name>
+    <trkseg>
+		<trkpt name="text" lat="54.322798" lon="40.882386" elevation="1"/>
+		<trkpt lat="54.323011" lon="40.882385" elevation="1"/>
+		<trkpt lat="54.323164" lon="40.882385" elevation="1"/>		
+		<trkpt lat="54.323164" lon="40.882026" elevation="1"/>
+		<trkpt lat="54.323167" lon="40.881495" elevation="1"/>
+		<trkpt lat="54.323161" lon="40.881130" elevation="1"/>
+		<trkpt lat="54.323161" lon="40.880636" elevation="1"/>
+		<trkpt lat="54.323170" lon="40.880035" elevation="1"/>
+		<trkpt lat="54.323181" lon="40.879198" elevation="1"/>
+		<trkpt lat="54.323176" lon="40.879018" elevation="1"/>
+		<trkpt lat="54.323156" lon="40.878841" elevation="1"/>
+		<trkpt lat="54.323017" lon="40.878329" elevation="1"/>
+		<trkpt lat="54.323108" lon="40.878618" elevation="1"/>
+		<trkpt lat="54.322892" lon="40.878012" elevation="1"/>
+		<trkpt lat="54.322775" lon="40.877717" elevation="1"/>
+		<trkpt lat="54.322623" lon="40.878165" elevation="1"/>
+		<trkpt lat="54.322399" lon="40.878350" elevation="1"/>
+	</trkseg>
+  </trk>
+</gpx>

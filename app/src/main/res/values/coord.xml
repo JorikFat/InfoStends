@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="polygons">
+        <item name="polygon1">
+            <string-array name="Озерная"><!--Озерная-->
+                <item name="pEnter">54.323134, 40.872357</item>
+                <item name="p1">54.323567, 40.865452</item>
+                <item name="p2">54.324621, 40.871846</item>
+                <item name="p3">54.322055, 40.872979</item>
+                <item name="p4">54.320751, 40.867207</item>
+                <item name="pExit">54.322394, 40.866241</item>
+            </string-array>
+        </item>
+
+        <item name="polygon2">
+            <array name="ЦРБ"><!--ЦРБ-->
+            <item name="pEnter">54.323667, 40.889233</item>
+            <item name="p1">54.325153, 40.887205</item>
+            <item name="p2">54.323259, 40.887034</item>
+            <item name="p3">54.323979, 40.892278</item>
+            <item name="p4">54.326420, 40.890918</item>
+            <item name="pExit">54.326249, 40.888115</item>
+        </array>
+        </item>
+
+        <item name="polygon3">
+            <array name="РоссельхозБанк"><!--РоссельхозБанк-->
+            <item name="pEnter">54.322454, 40.878361</item>
+            <item name="p1">54.322453, 40.877335</item>
+            <item name="p2">54.321327, 40.877067</item>
+            <item name="p3">54.321283, 40.878719</item>
+            <item name="p4">54.322522, 40.878622</item>
+            <item name="pExit">54.321462, 40.878098</item>
+        </array>
+        </item>
+
+    </array>
+</resources>
